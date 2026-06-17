@@ -251,13 +251,6 @@ I manually tested the app across:
 * read-only safety;
 * graceful limitation handling.
 
-See:
-
-```text
-docs/qa_report.md
-evaluation/eval_questions.md
-evaluation/test_results.md
-```
 
 ## Known Limitation
 
