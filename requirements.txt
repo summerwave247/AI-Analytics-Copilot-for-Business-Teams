@@ -3,3 +3,5 @@ streamlit
 sqlalchemy
 langchain
 langchain-community
+langchain-ollama
+langgraph
