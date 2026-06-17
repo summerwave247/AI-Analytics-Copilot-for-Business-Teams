@@ -1,0 +1,401 @@
+ticket_id,account_id,issue_type,severity,status,created_date
+T000001,A00136,Feature Request,Medium,Open,2025-05-22
+T000002,A00155,Performance,Low,In Progress,2025-11-23
+T000003,A00152,Bug,Medium,Resolved,2024-03-22
+T000004,A00046,Feature Request,Low,Closed,2025-08-12
+T000005,A00049,Performance,Low,Closed,2024-07-11
+T000006,A00048,Billing,High,In Progress,2025-02-08
+T000007,A00163,Integration,Low,In Progress,2025-10-17
+T000008,A00074,Feature Request,Medium,Closed,2024-09-03
+T000009,A00136,Bug,Medium,Closed,2024-09-14
+T000010,A00073,Feature Request,Low,Open,2024-12-18
+T000011,A00188,Bug,Medium,Closed,2024-03-22
+T000012,A00173,Performance,Medium,Closed,2025-11-21
+T000013,A00023,Billing,Medium,Closed,2025-01-05
+T000014,A00179,Performance,Medium,Closed,2025-08-05
+T000015,A00068,Performance,High,Resolved,2025-05-06
+T000016,A00095,Onboarding,Low,Resolved,2025-07-13
+T000017,A00191,Feature Request,Low,Open,2025-12-08
+T000018,A00091,Onboarding,Medium,Resolved,2025-02-16
+T000019,A00119,Onboarding,Medium,Open,2025-01-29
+T000020,A00108,Bug,High,Closed,2025-01-25
+T000021,A00162,Feature Request,Medium,Open,2025-11-08
+T000022,A00045,Feature Request,Medium,Open,2024-04-07
+T000023,A00005,Onboarding,Medium,In Progress,2024-07-21
+T000024,A00006,Onboarding,Medium,In Progress,2025-07-16
+T000025,A00072,Feature Request,Low,Resolved,2025-05-26
+T000026,A00111,Onboarding,Critical,Open,2025-11-12
+T000027,A00016,Billing,Critical,Open,2024-11-27
+T000028,A00181,Onboarding,Medium,Open,2025-06-15
+T000029,A00127,Feature Request,Medium,Open,2024-11-11
+T000030,A00162,Feature Request,Low,In Progress,2025-09-25
+T000031,A00110,Integration,Low,Open,2024-10-15
+T000032,A00088,Performance,Medium,Resolved,2024-05-11
+T000033,A00095,Integration,Critical,Open,2025-04-02
+T000034,A00095,Onboarding,Low,Closed,2025-12-05
+T000035,A00060,Billing,Medium,Closed,2025-05-02
+T000036,A00072,Integration,Low,Closed,2025-12-16
+T000037,A00050,Feature Request,Critical,Closed,2025-08-09
+T000038,A00059,Performance,Medium,In Progress,2024-09-12
+T000039,A00126,Integration,Medium,Open,2025-06-07
+T000040,A00025,Onboarding,High,Resolved,2024-03-24
+T000041,A00136,Onboarding,Medium,Closed,2024-09-29
+T000042,A00018,Onboarding,Medium,Open,2024-10-09
+T000043,A00183,Feature Request,Medium,Closed,2025-04-30
+T000044,A00064,Feature Request,Medium,In Progress,2025-09-27
+T000045,A00124,Integration,Low,In Progress,2024-11-23
+T000046,A00125,Billing,Medium,Resolved,2025-10-23
+T000047,A00049,Integration,Medium,In Progress,2024-03-03
+T000048,A00189,Feature Request,Medium,Resolved,2024-09-11
+T000049,A00097,Onboarding,High,Closed,2024-11-01
+T000050,A00067,Feature Request,Low,Open,2025-10-29
+T000051,A00165,Onboarding,Low,Resolved,2024-05-31
+T000052,A00115,Performance,Medium,Open,2025-03-30
+T000053,A00195,Billing,Low,In Progress,2024-10-09
+T000054,A00051,Performance,Medium,In Progress,2025-08-23
+T000055,A00033,Billing,Critical,Open,2024-11-30
+T000056,A00142,Onboarding,Medium,In Progress,2025-01-19
+T000057,A00141,Bug,Medium,Resolved,2025-02-09
+T000058,A00046,Billing,Medium,Closed,2025-10-21
+T000059,A00073,Billing,Medium,Resolved,2025-06-07
+T000060,A00015,Performance,High,Open,2024-03-06
+T000061,A00018,Feature Request,Low,Resolved,2025-12-31
+T000062,A00061,Bug,High,Closed,2024-12-12
+T000063,A00021,Onboarding,Low,Open,2025-02-14
+T000064,A00140,Bug,Medium,Resolved,2025-02-09
+T000065,A00178,Feature Request,Medium,Open,2024-07-31
+T000066,A00115,Feature Request,Low,Closed,2024-09-24
+T000067,A00059,Feature Request,Low,Resolved,2024-01-25
+T000068,A00014,Performance,High,In Progress,2024-02-13
+T000069,A00011,Feature Request,High,Closed,2024-05-20
+T000070,A00129,Billing,Low,Closed,2025-11-17
+T000071,A00102,Bug,Medium,In Progress,2024-01-25
+T000072,A00172,Performance,Medium,Resolved,2024-02-11
+T000073,A00052,Integration,Low,In Progress,2025-05-18
+T000074,A00002,Billing,High,Resolved,2025-01-11
+T000075,A00131,Feature Request,Medium,Open,2024-01-08
+T000076,A00161,Performance,Medium,In Progress,2025-01-18
+T000077,A00131,Onboarding,Low,In Progress,2025-09-14
+T000078,A00066,Billing,Low,Closed,2025-02-06
+T000079,A00031,Performance,Low,Open,2025-09-09
+T000080,A00167,Performance,Medium,In Progress,2024-07-08
+T000081,A00029,Bug,Medium,Open,2024-07-29
+T000082,A00052,Integration,High,In Progress,2025-12-07
+T000083,A00173,Feature Request,High,Closed,2025-01-04
+T000084,A00119,Bug,Medium,In Progress,2024-09-15
+T000085,A00056,Integration,Low,Open,2024-07-04
+T000086,A00086,Feature Request,Medium,Resolved,2024-12-01
+T000087,A00118,Onboarding,Medium,Open,2025-05-18
+T000088,A00123,Integration,Medium,Closed,2025-11-14
+T000089,A00064,Bug,Medium,Closed,2024-02-01
+T000090,A00159,Bug,High,Closed,2024-01-01
+T000091,A00078,Onboarding,Medium,Resolved,2024-06-12
+T000092,A00025,Bug,Medium,Resolved,2025-03-09
+T000093,A00190,Billing,Low,In Progress,2024-01-23
+T000094,A00077,Bug,High,In Progress,2024-09-26
+T000095,A00117,Feature Request,Low,Resolved,2025-11-29
+T000096,A00008,Onboarding,Low,Open,2024-08-28
+T000097,A00117,Integration,Medium,In Progress,2024-01-24
+T000098,A00180,Integration,Medium,Resolved,2024-06-05
+T000099,A00056,Bug,Medium,In Progress,2024-02-08
+T000100,A00128,Onboarding,High,In Progress,2024-01-14
+T000101,A00148,Bug,Medium,Closed,2024-10-14
+T000102,A00182,Billing,High,In Progress,2024-09-30
+T000103,A00007,Performance,Low,Closed,2024-08-28
+T000104,A00177,Onboarding,High,Closed,2024-02-15
+T000105,A00145,Onboarding,Medium,Resolved,2024-08-25
+T000106,A00184,Performance,Low,In Progress,2025-09-04
+T000107,A00095,Onboarding,High,Resolved,2025-01-17
+T000108,A00169,Billing,High,Resolved,2024-11-24
+T000109,A00189,Performance,Low,Open,2025-02-15
+T000110,A00096,Onboarding,Critical,Closed,2024-05-31
+T000111,A00173,Onboarding,Medium,In Progress,2025-03-18
+T000112,A00023,Integration,Low,Open,2025-01-02
+T000113,A00166,Onboarding,Medium,Resolved,2025-11-27
+T000114,A00043,Bug,Low,Closed,2025-10-02
+T000115,A00038,Integration,Low,Resolved,2024-06-12
+T000116,A00147,Feature Request,Critical,Closed,2025-12-10
+T000117,A00102,Bug,High,Closed,2025-05-28
+T000118,A00140,Bug,Medium,Resolved,2024-09-17
+T000119,A00141,Performance,Critical,Resolved,2025-12-01
+T000120,A00182,Billing,Medium,In Progress,2025-01-17
+T000121,A00141,Onboarding,Medium,Closed,2024-08-12
+T000122,A00148,Billing,High,Resolved,2024-04-18
+T000123,A00058,Performance,Medium,Open,2025-12-11
+T000124,A00193,Feature Request,High,Closed,2025-05-31
+T000125,A00028,Onboarding,Low,Open,2024-11-09
+T000126,A00062,Onboarding,Low,In Progress,2025-10-15
+T000127,A00025,Feature Request,Low,Open,2024-05-03
+T000128,A00054,Feature Request,High,Resolved,2024-03-09
+T000129,A00065,Onboarding,Critical,In Progress,2025-01-01
+T000130,A00170,Onboarding,Low,Resolved,2024-12-17
+T000131,A00100,Billing,Low,In Progress,2025-08-26
+T000132,A00123,Performance,Medium,Open,2025-05-18
+T000133,A00009,Onboarding,Low,Open,2025-12-18
+T000134,A00122,Onboarding,High,Closed,2025-03-08
+T000135,A00177,Integration,Medium,In Progress,2025-12-02
+T000136,A00126,Bug,Medium,Closed,2024-03-29
+T000137,A00122,Billing,Medium,Open,2025-10-08
+T000138,A00025,Onboarding,Medium,In Progress,2025-09-10
+T000139,A00121,Bug,Low,Resolved,2025-12-21
+T000140,A00116,Feature Request,Medium,Open,2025-12-01
+T000141,A00033,Integration,High,Closed,2025-06-02
+T000142,A00114,Bug,Medium,Resolved,2025-12-14
+T000143,A00145,Onboarding,High,Resolved,2024-02-19
+T000144,A00065,Integration,Low,Resolved,2024-06-27
+T000145,A00116,Billing,High,Open,2025-09-07
+T000146,A00085,Onboarding,Low,Open,2024-03-19
+T000147,A00051,Onboarding,Medium,Open,2025-10-31
+T000148,A00046,Onboarding,Low,Open,2024-12-14
+T000149,A00175,Integration,High,In Progress,2025-03-31
+T000150,A00180,Bug,Low,Open,2025-09-11
+T000151,A00145,Bug,Medium,In Progress,2025-12-16
+T000152,A00111,Bug,High,Closed,2025-01-12
+T000153,A00163,Integration,Low,Resolved,2024-10-12
+T000154,A00112,Integration,High,Open,2024-03-30
+T000155,A00068,Performance,Medium,In Progress,2024-09-06
+T000156,A00036,Bug,Low,Open,2024-07-10
+T000157,A00171,Feature Request,Medium,Closed,2025-01-17
+T000158,A00143,Billing,Medium,Closed,2025-11-03
+T000159,A00048,Integration,Medium,Resolved,2024-08-25
+T000160,A00052,Feature Request,Low,Resolved,2025-02-04
+T000161,A00003,Billing,Low,Closed,2024-04-25
+T000162,A00135,Performance,Low,Resolved,2024-11-06
+T000163,A00036,Billing,Critical,Closed,2024-08-06
+T000164,A00049,Performance,Medium,Resolved,2024-04-11
+T000165,A00045,Onboarding,Medium,Resolved,2024-03-13
+T000166,A00038,Performance,Low,Resolved,2024-03-10
+T000167,A00123,Integration,Critical,Open,2024-06-17
+T000168,A00064,Performance,High,Closed,2025-01-05
+T000169,A00058,Billing,Medium,Closed,2024-02-13
+T000170,A00083,Onboarding,Low,Resolved,2025-01-17
+T000171,A00101,Onboarding,Medium,Closed,2024-05-10
+T000172,A00123,Integration,Critical,Resolved,2025-02-20
+T000173,A00166,Performance,Low,Resolved,2024-10-21
+T000174,A00128,Bug,Medium,Open,2024-03-08
+T000175,A00144,Bug,High,Closed,2025-10-18
+T000176,A00011,Billing,Low,In Progress,2025-10-27
+T000177,A00088,Billing,High,Resolved,2024-11-11
+T000178,A00121,Integration,Medium,Closed,2025-12-05
+T000179,A00151,Performance,Medium,Resolved,2025-09-05
+T000180,A00170,Integration,Low,In Progress,2025-12-09
+T000181,A00126,Billing,Medium,Resolved,2024-03-05
+T000182,A00065,Performance,Low,In Progress,2024-10-22
+T000183,A00153,Integration,Low,Closed,2024-11-27
+T000184,A00062,Integration,Low,Closed,2024-07-15
+T000185,A00086,Integration,Medium,In Progress,2025-09-04
+T000186,A00109,Performance,Medium,Closed,2024-05-22
+T000187,A00198,Performance,Low,Resolved,2025-01-05
+T000188,A00183,Integration,Medium,In Progress,2025-04-18
+T000189,A00149,Integration,Low,Resolved,2024-10-25
+T000190,A00164,Feature Request,Low,Closed,2024-12-11
+T000191,A00047,Performance,High,In Progress,2025-02-05
+T000192,A00124,Performance,Low,Resolved,2025-07-04
+T000193,A00088,Feature Request,Low,Open,2024-05-07
+T000194,A00097,Integration,Critical,Open,2024-07-12
+T000195,A00066,Onboarding,Medium,Closed,2025-08-20
+T000196,A00071,Integration,Medium,Open,2024-02-22
+T000197,A00110,Performance,Critical,Resolved,2025-05-02
+T000198,A00112,Onboarding,Low,Open,2024-05-05
+T000199,A00093,Bug,Low,Open,2024-04-20
+T000200,A00141,Integration,Low,Closed,2025-12-04
+T000201,A00109,Feature Request,Low,Resolved,2024-03-02
+T000202,A00003,Bug,Low,Resolved,2024-10-10
+T000203,A00073,Onboarding,Low,In Progress,2025-09-10
+T000204,A00147,Billing,Critical,In Progress,2024-08-30
+T000205,A00039,Bug,Medium,In Progress,2024-08-13
+T000206,A00044,Onboarding,Low,Resolved,2024-06-13
+T000207,A00024,Integration,High,Closed,2024-10-03
+T000208,A00125,Bug,Low,Closed,2024-08-14
+T000209,A00062,Onboarding,Medium,Closed,2024-08-13
+T000210,A00072,Bug,Low,Resolved,2025-03-21
+T000211,A00149,Integration,High,In Progress,2024-08-25
+T000212,A00026,Bug,Medium,In Progress,2024-06-02
+T000213,A00190,Onboarding,High,Closed,2024-01-24
+T000214,A00139,Billing,Low,Resolved,2025-03-23
+T000215,A00135,Billing,Low,Resolved,2025-09-22
+T000216,A00100,Onboarding,Medium,In Progress,2025-12-21
+T000217,A00020,Integration,High,Resolved,2024-06-21
+T000218,A00104,Feature Request,Low,In Progress,2024-10-07
+T000219,A00064,Performance,Low,In Progress,2025-09-06
+T000220,A00121,Bug,Medium,Resolved,2025-10-22
+T000221,A00179,Bug,Medium,Closed,2025-02-02
+T000222,A00147,Billing,Medium,Open,2025-03-22
+T000223,A00186,Onboarding,High,Open,2024-09-18
+T000224,A00090,Feature Request,Low,Closed,2024-09-23
+T000225,A00123,Feature Request,Low,Closed,2025-10-22
+T000226,A00133,Integration,Medium,Open,2024-02-07
+T000227,A00098,Billing,Low,In Progress,2025-12-25
+T000228,A00041,Bug,Medium,Resolved,2024-09-13
+T000229,A00021,Integration,Critical,Resolved,2024-10-27
+T000230,A00037,Onboarding,Low,Closed,2024-08-22
+T000231,A00105,Billing,Low,Open,2024-04-04
+T000232,A00159,Bug,Medium,Closed,2024-06-29
+T000233,A00074,Integration,Medium,In Progress,2024-06-20
+T000234,A00061,Bug,High,Open,2025-12-30
+T000235,A00020,Bug,High,In Progress,2024-07-02
+T000236,A00137,Bug,High,Resolved,2025-01-12
+T000237,A00186,Feature Request,Low,Closed,2024-09-08
+T000238,A00003,Billing,High,Closed,2025-06-09
+T000239,A00006,Integration,Medium,Open,2024-05-18
+T000240,A00043,Bug,Medium,Closed,2024-09-04
+T000241,A00156,Billing,Medium,In Progress,2024-09-08
+T000242,A00117,Feature Request,High,Resolved,2024-06-14
+T000243,A00164,Integration,High,Open,2025-01-21
+T000244,A00035,Bug,Low,Resolved,2025-05-16
+T000245,A00174,Onboarding,Medium,Resolved,2025-06-21
+T000246,A00120,Performance,Critical,In Progress,2025-09-12
+T000247,A00148,Performance,High,In Progress,2024-09-14
+T000248,A00135,Onboarding,Low,Closed,2024-05-09
+T000249,A00010,Feature Request,Low,Closed,2024-11-01
+T000250,A00030,Integration,High,In Progress,2024-11-02
+T000251,A00096,Bug,Low,Open,2024-01-17
+T000252,A00056,Onboarding,High,Closed,2025-04-05
+T000253,A00152,Performance,Low,Closed,2025-02-09
+T000254,A00063,Feature Request,Low,In Progress,2025-03-25
+T000255,A00065,Onboarding,Medium,Resolved,2025-01-15
+T000256,A00053,Onboarding,Low,Closed,2024-09-08
+T000257,A00038,Performance,Critical,In Progress,2024-02-24
+T000258,A00090,Onboarding,High,Closed,2025-03-19
+T000259,A00020,Integration,Low,Closed,2025-07-18
+T000260,A00123,Bug,Critical,Closed,2025-05-05
+T000261,A00018,Billing,Low,In Progress,2025-06-02
+T000262,A00043,Bug,Critical,Open,2025-12-29
+T000263,A00144,Billing,Low,Resolved,2025-10-07
+T000264,A00134,Billing,Low,In Progress,2025-09-19
+T000265,A00118,Billing,Medium,In Progress,2024-02-22
+T000266,A00133,Integration,Low,In Progress,2025-05-14
+T000267,A00111,Integration,Low,Closed,2025-08-02
+T000268,A00130,Bug,Critical,Open,2025-01-21
+T000269,A00085,Performance,High,Resolved,2025-10-12
+T000270,A00069,Feature Request,Low,Closed,2024-04-05
+T000271,A00158,Onboarding,Low,In Progress,2024-02-15
+T000272,A00078,Bug,Critical,Open,2025-08-05
+T000273,A00050,Onboarding,High,Closed,2025-03-13
+T000274,A00141,Integration,Low,Closed,2024-01-01
+T000275,A00017,Feature Request,High,In Progress,2025-05-09
+T000276,A00017,Feature Request,Medium,Closed,2025-11-19
+T000277,A00127,Bug,Low,Resolved,2024-12-16
+T000278,A00158,Performance,Critical,Closed,2024-09-21
+T000279,A00148,Integration,Medium,Closed,2024-12-04
+T000280,A00162,Performance,Low,Open,2025-11-29
+T000281,A00184,Integration,Medium,In Progress,2025-08-31
+T000282,A00200,Feature Request,Low,Open,2025-05-09
+T000283,A00070,Billing,Critical,In Progress,2025-02-18
+T000284,A00014,Integration,Low,Closed,2024-04-19
+T000285,A00038,Integration,Low,Closed,2024-09-11
+T000286,A00119,Feature Request,Critical,Resolved,2025-06-01
+T000287,A00093,Onboarding,High,In Progress,2024-12-05
+T000288,A00077,Bug,Low,Resolved,2025-11-09
+T000289,A00017,Billing,Critical,Open,2025-02-19
+T000290,A00111,Feature Request,Medium,Closed,2024-12-07
+T000291,A00095,Bug,Low,Resolved,2025-05-18
+T000292,A00102,Integration,Low,In Progress,2024-08-28
+T000293,A00074,Feature Request,Medium,Open,2024-06-12
+T000294,A00154,Billing,Medium,Closed,2024-04-13
+T000295,A00022,Bug,High,Open,2025-07-07
+T000296,A00110,Onboarding,High,Closed,2025-12-15
+T000297,A00166,Feature Request,Critical,Open,2024-06-30
+T000298,A00009,Feature Request,Low,Closed,2025-11-26
+T000299,A00176,Performance,Medium,Resolved,2024-02-11
+T000300,A00043,Billing,Low,Open,2025-08-19
+T000301,A00022,Bug,Medium,Closed,2024-07-15
+T000302,A00044,Onboarding,High,Resolved,2024-09-30
+T000303,A00152,Billing,Medium,Resolved,2025-09-19
+T000304,A00073,Feature Request,Low,Resolved,2024-09-23
+T000305,A00041,Performance,High,Resolved,2025-05-23
+T000306,A00156,Feature Request,Medium,Open,2024-12-12
+T000307,A00171,Feature Request,Medium,Closed,2025-01-02
+T000308,A00131,Billing,Low,Resolved,2025-02-14
+T000309,A00108,Feature Request,High,Closed,2025-11-13
+T000310,A00084,Feature Request,Low,Open,2024-06-07
+T000311,A00010,Bug,Low,Closed,2024-05-31
+T000312,A00028,Onboarding,Low,Resolved,2024-10-16
+T000313,A00198,Billing,Medium,Resolved,2025-05-08
+T000314,A00112,Onboarding,Low,Resolved,2025-11-18
+T000315,A00142,Performance,Medium,Closed,2024-08-02
+T000316,A00122,Performance,Low,Open,2024-07-15
+T000317,A00089,Bug,Low,Closed,2024-09-15
+T000318,A00100,Feature Request,High,Resolved,2025-02-11
+T000319,A00182,Billing,Medium,Closed,2025-12-25
+T000320,A00109,Performance,Low,Closed,2025-08-03
+T000321,A00180,Feature Request,Low,Closed,2024-09-13
+T000322,A00107,Bug,Medium,Closed,2024-05-31
+T000323,A00011,Feature Request,Low,Resolved,2024-10-11
+T000324,A00052,Performance,Low,Open,2024-01-10
+T000325,A00162,Billing,High,Closed,2025-01-16
+T000326,A00087,Bug,Low,Closed,2025-05-28
+T000327,A00052,Feature Request,Low,Resolved,2025-06-01
+T000328,A00071,Integration,Medium,Resolved,2025-08-27
+T000329,A00157,Integration,Low,Closed,2024-02-10
+T000330,A00117,Performance,Medium,In Progress,2025-04-12
+T000331,A00012,Billing,Low,In Progress,2025-10-04
+T000332,A00017,Onboarding,High,In Progress,2025-04-19
+T000333,A00156,Integration,Low,In Progress,2025-08-28
+T000334,A00058,Onboarding,Low,Closed,2024-02-09
+T000335,A00059,Performance,High,In Progress,2024-09-28
+T000336,A00002,Integration,Low,In Progress,2025-04-05
+T000337,A00062,Onboarding,Low,Open,2024-03-18
+T000338,A00071,Integration,High,Resolved,2025-03-02
+T000339,A00005,Integration,High,Resolved,2025-10-17
+T000340,A00079,Integration,Medium,Resolved,2025-08-17
+T000341,A00055,Integration,Medium,In Progress,2024-04-28
+T000342,A00061,Onboarding,Medium,In Progress,2025-07-12
+T000343,A00168,Feature Request,Low,In Progress,2024-12-02
+T000344,A00166,Feature Request,Critical,Open,2024-05-12
+T000345,A00192,Performance,Low,Resolved,2025-11-18
+T000346,A00066,Onboarding,Low,In Progress,2024-06-16
+T000347,A00093,Bug,High,In Progress,2025-07-09
+T000348,A00178,Integration,Medium,Open,2024-06-08
+T000349,A00032,Bug,Critical,Open,2024-10-03
+T000350,A00046,Bug,High,In Progress,2025-05-27
+T000351,A00197,Integration,Medium,Open,2025-11-15
+T000352,A00158,Billing,High,In Progress,2024-04-04
+T000353,A00091,Feature Request,Medium,Open,2024-09-13
+T000354,A00186,Bug,High,Resolved,2024-03-29
+T000355,A00017,Feature Request,Low,Open,2025-12-07
+T000356,A00137,Feature Request,Medium,Closed,2025-10-08
+T000357,A00090,Bug,Low,In Progress,2025-03-18
+T000358,A00027,Integration,High,In Progress,2024-06-20
+T000359,A00049,Integration,Medium,Closed,2025-12-15
+T000360,A00018,Performance,Low,Resolved,2025-05-21
+T000361,A00143,Onboarding,Medium,Resolved,2024-07-22
+T000362,A00011,Bug,Medium,Open,2024-12-29
+T000363,A00005,Performance,Critical,Resolved,2025-03-01
+T000364,A00192,Bug,Critical,Closed,2024-03-28
+T000365,A00035,Bug,Medium,Resolved,2024-04-29
+T000366,A00152,Feature Request,Medium,Resolved,2025-07-18
+T000367,A00186,Billing,Low,Closed,2025-10-15
+T000368,A00082,Feature Request,Low,Closed,2024-10-27
+T000369,A00010,Bug,Low,In Progress,2024-05-20
+T000370,A00179,Billing,High,Closed,2024-10-14
+T000371,A00088,Onboarding,Critical,Closed,2025-01-07
+T000372,A00020,Onboarding,Low,In Progress,2024-01-24
+T000373,A00007,Billing,Low,Resolved,2024-05-20
+T000374,A00135,Integration,Medium,Open,2024-04-26
+T000375,A00025,Billing,High,In Progress,2024-05-06
+T000376,A00047,Integration,Low,Closed,2024-08-25
+T000377,A00013,Billing,Low,Closed,2025-07-08
+T000378,A00021,Performance,Medium,Resolved,2025-12-08
+T000379,A00140,Billing,High,Resolved,2024-04-12
+T000380,A00104,Bug,Low,Closed,2024-04-05
+T000381,A00169,Billing,Low,Open,2024-03-11
+T000382,A00025,Integration,Low,Closed,2024-02-13
+T000383,A00121,Billing,Medium,Open,2024-06-11
+T000384,A00152,Integration,High,In Progress,2024-12-08
+T000385,A00044,Feature Request,Medium,Resolved,2024-04-16
+T000386,A00162,Bug,Medium,Resolved,2024-05-09
+T000387,A00044,Performance,Critical,Closed,2025-06-05
+T000388,A00062,Onboarding,Low,Resolved,2024-10-06
+T000389,A00148,Performance,High,Open,2025-07-14
+T000390,A00061,Bug,Medium,Resolved,2025-02-01
+T000391,A00050,Integration,Low,Open,2025-08-27
+T000392,A00106,Integration,Low,In Progress,2024-05-07
+T000393,A00181,Onboarding,Low,Resolved,2024-01-02
+T000394,A00030,Onboarding,Medium,Resolved,2025-12-08
+T000395,A00033,Integration,Low,Resolved,2024-05-02
+T000396,A00172,Feature Request,Low,Open,2024-09-12
+T000397,A00191,Bug,High,Resolved,2024-05-16
+T000398,A00056,Billing,Critical,Resolved,2025-10-29
+T000399,A00054,Performance,Low,Resolved,2025-02-27
+T000400,A00028,Billing,Low,Open,2025-10-25
